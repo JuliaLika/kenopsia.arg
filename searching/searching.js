@@ -4,27 +4,27 @@ const buttonProps = [
     {
         id: 'YESearth',
         text: 'YESearth',
-        route: '../searching/no-earth/noearth.html',
+        route: 'searching/no-earth/noearth.html',
     },
     {
         id: 'edibles',
         text: '3Dibles',
-        route: '../searching/3Dibles/3Dibles.html',
+        route: 'searching/3Dibles/3Dibles.html',
     },
     {
         id: 'infertile',
         text: '(in)fertile',
-        route: '../searching/infertile/infertile.html',
+        route: 'searching/infertile/infertile.html',
     },
     {
         id: 'androids',
         text: 'androids',
-        route: '../searching/androids/androids.html',
+        route: 'searching/androids/androids.html',
     },
     {
         id: 'cloud',
         text: 'cloud',
-        route: '../searching/cloud/cloud.html',
+        route: 'searching/cloud/cloud.html',
     },
 ]
 
